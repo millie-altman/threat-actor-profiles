@@ -42,7 +42,6 @@ Profiles are built from open-source intelligence (OSINT), including government a
 
 | Actor | Type | Status |
 |---|---|---|
-| APT29 / Cozy Bear | Nation-State (Russia) | Planned |
 | Lazarus Group | Nation-State (DPRK) | Planned |
 | Play Ransomware | Cybercriminal | See [Ransomware TIC Brief](https://github.com/millie-altman/threat-intelligence-portfolio/blob/main/finished-intelligence/ransomware-tic-brief.md) |
 
