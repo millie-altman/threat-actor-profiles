@@ -28,6 +28,7 @@ Profiles are built from open-source intelligence (OSINT), including government a
 | Actor | Origin | Primary Motivation | Key Targeting | Profile |
 |---|---|---|---|---|
 | Volt Typhoon | China (PRC) | Strategic pre-positioning / disruption | Critical infrastructure, defense contractors, U.S. territories | [View Profile](./nation-state/volt-typhoon.md) |
+| APT29 / Cozy Bear | Russia (SVR) | Strategic espionage / intelligence collection | Government, defense contractors, technology companies, NATO allies | [View Profile](./nation-state/apt29-cozy-bear.md) |
 
 ---
 
