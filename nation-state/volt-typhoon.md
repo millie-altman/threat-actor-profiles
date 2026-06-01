@@ -1,7 +1,14 @@
 # Threat Actor Profile: Volt Typhoon
 ## PRC State-Sponsored | Critical Infrastructure Pre-Positioning | Living-Off-the-Land
 
+![Nation-State](https://img.shields.io/badge/Type-Nation--State%20%7C%20PRC-red)
+![MITRE ATT&CK](https://img.shields.io/badge/ATT%26CK-G1017-red)
+![Critical Infrastructure](https://img.shields.io/badge/Targeting-Critical%20Infrastructure-orange)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Status](https://img.shields.io/badge/Status-Final-darkgreen)
+
 **Analyst:** Millie Altman
+
 **Classification:** UNCLASSIFIED // FOR PORTFOLIO USE  
 **MITRE ATT&CK ID:** G1017  
 **Profile Version:** 1.0  
