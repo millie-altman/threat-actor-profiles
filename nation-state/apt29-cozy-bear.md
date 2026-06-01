@@ -1,6 +1,12 @@
 # Threat Actor Profile: APT29
 ## Russia SVR | Global Espionage & Credential Theft | Cloud-Native Tradecraft Evolution
 
+![Nation-State](https://img.shields.io/badge/Type-Nation--State%20%7C%20Russia%20SVR-blue)
+![MITRE ATT&CK](https://img.shields.io/badge/ATT%26CK-G0016-red)
+![Espionage](https://img.shields.io/badge/Motivation-Strategic%20Espionage-darkblue)
+![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-white)
+![Status](https://img.shields.io/badge/Status-Final-darkgreen)
+
 **Analyst:** Millie Altman
 
 **Classification:** UNCLASSIFIED // FOR PORTFOLIO USE  
