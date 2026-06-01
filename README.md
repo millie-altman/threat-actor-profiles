@@ -43,7 +43,7 @@ Profiles are built from open-source intelligence (OSINT), including government a
 |---|---|---|
 | APT29 / Cozy Bear | Nation-State (Russia) | Planned |
 | Lazarus Group | Nation-State (DPRK) | Planned |
-| Play Ransomware | Cybercriminal | See [Ransomware TIC Brief](https://github.com/[yourusername]/threat-intelligence-portfolio/blob/main/finished-intelligence/ransomware-tic-brief.md) |
+| Play Ransomware | Cybercriminal | See [Ransomware TIC Brief](https://github.com/millie-altman/threat-intelligence-portfolio/blob/main/finished-intelligence/ransomware-tic-brief.md) |
 
 ---
 
@@ -108,9 +108,9 @@ This repository is part of a broader CTI research portfolio:
 
 | Repository | Description |
 |---|---|
-| [threat-intelligence-portfolio](https://github.com/[yourusername]/threat-intelligence-portfolio) | Finished intelligence products, defensive architecture analysis |
-| [cti-research-lab](https://github.com/[yourusername]/cti-research-lab) | Threat research lab environment and analysis notes |
-| [python-security-tools](https://github.com/[yourusername]/python-security-tools) | CTI-focused Python tools for IOC enrichment and OSINT automation |
+| [threat-intelligence-portfolio](https://github.com/millie-altman/threat-intelligence-portfolio) | Finished intelligence products, defensive architecture analysis |
+| [cti-research-lab](https://github.com/millie-altman/cti-research-lab) | Threat research lab environment and analysis notes |
+| [python-security-tools](https://github.com/millie-altman/python-security-tools) | CTI-focused Python tools for IOC enrichment and OSINT automation |
 
 ---
 
